@@ -1,0 +1,332 @@
+[18-May-2012 14:38:36] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:38:36] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:38:36] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:38:36] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:38:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:38:39] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:38:39] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:38:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:39:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:39:24] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:39:24] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:39:24] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:40:11] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:40:11] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:40:11] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:40:11] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:40:28] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:40:28] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:40:28] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:40:28] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:41:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:41:21] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:41:21] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:41:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:41:22] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:41:22] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:41:22] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:41:22] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:42:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:05] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:42:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:42:08] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:08] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:08] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:42:08] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:42:37] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:37] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:37] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:42:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:42:45] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:45] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:45] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:42:45] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:42:45] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:45] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:42:45] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:42:45] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:43:31] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:43:31] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:43:31] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:43:31] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:44:01] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:01] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:01] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:44:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:44:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:12] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:12] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:44:12] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:44:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:12] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:12] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:44:12] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:44:23] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:23] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:44:23] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:44:23] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 14:45:09] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:45:09] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 14:45:09] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 14:45:09] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 15:34:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:34:21] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:34:21] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 15:34:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 15:37:36] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:37:36] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:37:36] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 15:37:36] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 15:54:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:54:19] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:54:19] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 15:54:19] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 15:54:34] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:54:34] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 15:54:34] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 15:54:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:18:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:18:40] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:18:40] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:18:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:20:02] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:20:02] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:20:02] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:20:02] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:40:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:40:16] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:40:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:40:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:44:18] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:44:18] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:44:18] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:44:18] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:47:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:47:24] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:47:24] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:47:24] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:49:09] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:49:09] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:49:09] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:49:09] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:51:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:51:19] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:51:19] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:51:19] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:54:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:54:43] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:54:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:54:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 16:54:46] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:54:46] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 16:54:46] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 16:54:46] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 17:06:01] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:06:01] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:06:01] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 17:06:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 17:06:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:06:21] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:06:21] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 17:06:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 17:09:55] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:09:55] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:09:55] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 17:09:55] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 17:44:54] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:44:54] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 17:44:54] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 17:44:54] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 20:20:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 20:20:16] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 20:20:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 20:20:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[18-May-2012 20:20:17] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 20:20:17] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[18-May-2012 20:20:17] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[18-May-2012 20:20:17] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 09:41:13] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 09:41:13] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 09:41:13] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 09:41:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 09:41:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 09:41:16] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 09:41:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 09:41:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:24:37] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:37] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:37] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:24:37] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:24:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:43] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:24:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:24:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:48] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:24:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:24:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:25:08] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:08] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:08] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:25:08] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:25:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:16] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:25:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:25:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:35] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:25:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:25:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:37:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:35] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:37:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:37:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:40] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:40] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:37:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:37:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:43] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:43] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:37:43] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:37:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:51] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:51] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:37:51] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:37:55] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:55] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:37:55] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:37:55] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:40:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:12] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:12] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:40:12] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:40:15] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:15] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:15] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:40:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:40:44] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:44] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:44] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:40:44] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:40:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:48] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:40:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:40:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:44:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:44:05] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:44:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:44:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:45:48] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:45:48] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:45:48] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:45:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 10:46:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:46:06] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 10:46:06] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 10:46:06] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:10:29] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:10:29] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:10:29] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:10:29] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:11:03] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:11:03] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:11:03] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:11:03] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:15:10] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:15:10] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:15:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:15:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:23:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:23:12] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:23:12] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:23:12] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:23:44] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:23:44] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:23:44] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:23:44] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:36:34] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:34] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:34] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:36:34] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:36:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:35] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:35] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:36:35] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:36:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:39] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:39] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:36:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:36:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:40] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:40] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:36:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:36:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:47] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:36:47] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:36:47] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 11:40:53] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:40:53] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 11:40:53] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 11:40:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 13:28:07] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:28:08] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:28:08] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 13:28:08] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 13:29:27] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:29:27] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:29:27] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 13:29:27] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 13:29:28] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:29:28] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 13:29:28] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 13:29:28] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 15:32:02] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:32:02] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:32:02] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 15:32:02] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 15:37:03] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:37:03] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:37:03] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 15:37:03] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 15:55:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:55:21] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:55:21] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 15:55:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 15:55:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:55:26] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 15:55:26] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 15:55:26] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:29:53] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:29:53] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:29:53] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:29:53] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:29:54] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:29:54] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:29:54] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:29:54] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:30:03] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:30:03] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:30:03] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:30:03] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:30:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:30:06] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:30:06] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:30:06] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:31:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:31:19] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:31:19] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:31:19] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:31:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:31:20] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:31:20] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:31:20] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:32:56] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:32:56] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:32:56] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:32:56] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13
+[19-May-2012 16:33:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: URL file-access is disabled in the server configuration in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:33:16] PHP Warning:  fopen(http://opi.yahoo.com/online?u=keyworld622012&amp;m=t) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: no suitable wrapper could be found in /home/thegio89/public_html/image/yahoo/yahoo.php on line 9
+[19-May-2012 16:33:16] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 10
+[19-May-2012 16:33:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/thegio89/public_html/image/yahoo/yahoo.php on line 13

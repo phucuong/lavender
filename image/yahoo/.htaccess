@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^online.jpg(.*)$	yahoo.php$1 [L]

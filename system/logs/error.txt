@@ -1,0 +1,260 @@
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: text_return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: text_return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-02 9:30:09 - PHP Notice:  Undefined variable: text_return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: text_return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: text_return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:16:44 - PHP Notice:  Undefined variable: text_return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: text_return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: text_return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:16:50 - PHP Notice:  Undefined variable: text_return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:31:30 - PHP Notice:  Undefined variable: return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:31:30 - PHP Notice:  Undefined variable: return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:31:30 - PHP Notice:  Undefined variable: return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:32:04 - PHP Notice:  Undefined variable: return_status in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 18
+2012-06-04 1:32:04 - PHP Notice:  Undefined variable: return_action in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 19
+2012-06-04 1:32:04 - PHP Notice:  Undefined variable: return_reason in D:\AppServ\www\open1531\admin\view\template\localisation\return_status_list.tpl on line 20
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: attribute_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 346
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: option_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 416
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_required in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 445
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 454
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 461
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 468
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 475
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 482
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 489
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 500
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_quantity in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 501
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_subtract in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 502
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_price in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 503
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_option_points in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 504
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: entry_weight in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 505
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: option_value_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 549
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: discount_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 587
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: customer_groups in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 593
+2012-06-04 1:36:22 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 593
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: special_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 614
+2012-06-04 1:36:22 - PHP Notice:  Undefined variable: customer_groups in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 620
+2012-06-04 1:36:22 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 620
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: attribute_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 346
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: option_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 416
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_required in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 445
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 454
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 461
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 468
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 475
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 482
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 489
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_value in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 500
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_quantity in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 501
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_subtract in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 502
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_price in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 503
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_option_points in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 504
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: entry_weight in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 505
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: option_value_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 549
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: discount_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 587
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: customer_groups in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 593
+2012-06-04 1:36:29 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 593
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: special_row in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 614
+2012-06-04 1:36:29 - PHP Notice:  Undefined variable: customer_groups in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 620
+2012-06-04 1:36:29 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\content\news_form.tpl on line 620
+2012-06-04 2:27:38 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 815
+2012-06-04 2:27:41 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 815
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 815
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 819
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 820
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 826
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 827
+2012-06-04 2:27:45 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 833
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 834
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 842
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: text_all_zones in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 865
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: geo_zones in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 866
+2012-06-04 2:27:46 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 866
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 878
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 882
+2012-06-04 2:27:46 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 883
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 813
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_order_status_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: text_all_zones in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 863
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: geo_zones in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 864
+2012-06-04 2:28:36 - PHP Warning:  Invalid argument supplied for foreach() in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 864
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 876
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 880
+2012-06-04 2:28:36 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 881
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 813
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 856
+2012-06-04 2:30:14 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 857
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 813
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 856
+2012-06-04 2:32:28 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 857
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 813
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 856
+2012-06-04 2:33:06 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 857
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: text_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 813
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 856
+2012-06-04 2:33:49 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 857
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: error_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 832
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 840
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 852
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 856
+2012-06-04 2:34:15 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 857
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 838
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: entry_status_nganluong in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 848
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 850
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:36:17 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 855
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 838
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 850
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: text_enabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 854
+2012-06-04 2:36:26 - PHP Notice:  Undefined variable: text_disabled in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 855
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: nganluong_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 817
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: nganluong_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 824
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: nganluong_receiver in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 831
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: nganluong_currency_id in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 838
+2012-06-04 2:36:53 - PHP Notice:  Undefined variable: nganluong_status in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 850
+2012-06-04 2:39:09 - PHP Notice:  Undefined variable: error_merchant_site_code in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 818
+2012-06-04 2:39:09 - PHP Notice:  Undefined variable: error_secure_pass in D:\AppServ\www\open1531\admin\view\template\setting\setting.tpl on line 825
+2012-06-04 4:20:44 - PHP Warning:  Wrong parameter count for round() in D:\AppServ\www\open1531\catalog\controller\product\product.php on line 190
+2012-06-04 8:11:01 - PHP Unknown:  Object of class Config could not be converted to string in D:\AppServ\www\open1531\catalog\model\tool\t2vn.php on line 57
+2012-06-04 8:11:34 - PHP Unknown:  Object of class Config could not be converted to string in D:\AppServ\www\open1531\catalog\model\tool\t2vn.php on line 57
+2012-06-04 8:58:55 - PHP Warning:  Wrong parameter count for number_format() in D:\AppServ\www\open1531\catalog\controller\product\product.php on line 190
+2013-09-09 7:00:42 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 7:00:42 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 7:02:24 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 7:02:24 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 7:10:41 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 7:10:41 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 7:35:57 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 7:35:57 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 7:54:42 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 7:54:42 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 8:46:16 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 8:46:16 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 8:56:24 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 8:56:24 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 8:59:13 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 8:59:13 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:00:19 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:00:19 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:05:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:05:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:11:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:11:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:13:02 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:13:02 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:21:18 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:21:18 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:22:53 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:22:53 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:24:00 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:24:00 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:34:50 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:34:50 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:35:55 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:35:55 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:38:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:38:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:39:16 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:39:16 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:41:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:41:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-09 9:46:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-09 9:46:17 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-10 1:57:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-10 1:57:08 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-11 2:20:37 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-11 2:20:37 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171
+2013-09-11 2:29:19 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 140
+2013-09-11 2:29:19 - PHP Warning:  chmod(): Operation not permitted in /data/webroot/lavender2/catalog/model/module/visitor.php on line 171

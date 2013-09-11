@@ -1,0 +1,43 @@
+.dashboard-heading {
+	background: #b20000;
+	color: #FFF;
+	border-bottom: 1px solid #920000;
+	padding: 5px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.dashboard-content {
+	background: #FCFCFC;
+	border: 1px solid #920000;
+	padding: 10px;
+	min-height: 180px;
+	_width:100%;
+}
+.box > .heading h1 {
+	color: #970000 !important;
+}
+
+a              { color: #bb0000; }
+                
+.button {
+                background: #950000 url('../images/bg-button-red.gif') top left repeat-x !important;
+                border-color: #940000 !important;
+
+                }
+
+#sidebar #main-nav li a.nav-top-item {
+                background: transparent url('../images/bg-menu-item-red.gif') right center no-repeat;
+                }
+
+ul.content-box-tabs li a:hover {
+                color: #bb0000;
+                }              
+                
+.pagination a.current {
+                background: #950000 url('../images/bg-button-red.gif') top left repeat-x !important;
+                border-color: #940000 !important;
+                }
+				
+.action-button span:hover {
+                color: #bb0000;
+                }

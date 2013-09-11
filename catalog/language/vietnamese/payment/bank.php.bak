@@ -1,0 +1,5 @@
+<?php
+
+$_['entry_bank_name'] = 'Ngân hàng';
+$_['bank_account_name'] = 'Tên chủ tài khoản';
+?>

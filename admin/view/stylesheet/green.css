@@ -1,0 +1,43 @@
+.dashboard-heading {
+	background: #70b200;
+	color: #FFF;
+	border-bottom: 1px solid #4a9400;
+	padding: 5px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.dashboard-content {
+	background: #FCFCFC;
+	border: 1px solid #4a9400;
+	padding: 10px;
+	min-height: 180px;
+	_width:100%;
+}
+.box > .heading h1 {
+	color: #62a800 !important;
+}
+
+a              { color: #62a800; }
+                
+.button {
+                background: #70b200 url('../images/bg-button-green.gif') top left repeat-x !important;
+                border-color: #4c9800 !important;
+
+                }
+
+#sidebar #main-nav li a.nav-top-item {
+                background: transparent url('../images/bg-menu-item-green.gif') right center no-repeat;
+                }
+
+ul.content-box-tabs li a:hover {
+                color: #62a800;
+                }              
+                
+.pagination a.current {
+                background: #62a800 url('../images/bg-button-green.gif') top left repeat-x !important;
+                border-color: #62a800 !important;
+                }
+				
+.action-button span:hover {
+                color: #62a800;
+                }
